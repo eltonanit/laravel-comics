@@ -1,0 +1,25 @@
+@import '~bootstrap/scss/bootstrap';
+
+.logo {
+    img {
+        width: 75px;
+    }
+}
+.nav-item.active {
+    border-bottom: 9px solid blue;
+    color: blue ;
+
+}
+.search {
+    input {
+        border: none;
+        border-bottom: 3px solid #c20e0e
+    }
+}
+
+#jumbotron{
+    background-image: url('../images/jumbotron.jpg');
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
