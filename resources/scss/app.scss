@@ -23,3 +23,21 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+
+main{
+   background-color: black; 
+   color:white;
+
+    #comics-container{
+        padding: 50px 0px;
+        
+        .comic-card{
+            max-width: 100%;
+        
+        .card-body {
+            margin-top: 10px;
+          }
+         }
+        }
+}
